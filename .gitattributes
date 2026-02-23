@@ -11,6 +11,13 @@
 *.gif   binary
 *.tif   binary
 *.bmp   binary
+*.dll   binary
+*.exe   binary
+*.oft   binary
+*.eot   binary
+*.ttf   binary
+*.woff  binary
+*.woff2 binary
 
 # Formats managed by Git LFS.
 
