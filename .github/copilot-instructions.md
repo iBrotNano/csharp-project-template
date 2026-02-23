@@ -16,6 +16,10 @@
 - Don't change existing tests unless necessary to fix a bug or add coverage for new code.
 - Either change tests or code, but not both at the same time. It is not possible that a system validates or falsifies itself.
 
-## Style
+## Documentation
+
 - Add brief comments only when the intent is not obvious.
-- Functions and methods should have docstrings as documentation.
+- Use docstrings to document functions, classes, and modules.
+- Use type hints for function parameters and return types.
+- The language the documentation is written is English.
+
