@@ -12,14 +12,6 @@ assignees: iBrotNano
 
 A description of the faulty behavior.
 
-### :question: Open Questions?
-
-- [ ] @Who: What must be discussed?
-
-### :construction: Blockers
-
-- [ ] Something blocks my work.
-
 #### :footprints: How to reproduce
 
 1. Step 1
@@ -35,21 +27,21 @@ What data goes out of the system and why?
 
 ### :control_knobs: Conditions
 
-- [ ] Environment: OS, runtime, versions (App, Python/.NET, Browser)
-- [ ] Configuration / Feature flags: Which toggles are on?
-- [ ] Data preconditions: dataset/state/size
-- [ ] User context: role/permissions, locale/timezone
-- [ ] System state: cache warm/cold, background jobs/services
-- [ ] Load & timing: concurrent users, req/s, latency
-- [ ] Network: VPN/Proxy, offline/poor connectivity
-- [ ] External services: API availability, rate limits
-- [ ] Hardware: CPU/RAM constraints
-- [ ] Reproducibility: always/sometimes; time window
+- Environment: OS, runtime, versions (App, Python/.NET, Browser)
+- Configuration / Feature flags: Which toggles are on?
+- Data preconditions: dataset/state/size
+- User context: role/permissions, locale/timezone
+- System state: cache warm/cold, background jobs/services
+- Load & timing: concurrent users, req/s, latency
+- Network: VPN/Proxy, offline/poor connectivity
+- External services: API availability, rate limits
+- Hardware: CPU/RAM constraints
+- Reproducibility: always/sometimes; time window
 
 ### :warning: Side effects
 
 Are there any?
 
-### Docs
+### Acceptance Tests
 
-Links to documentation pages related to the bug.
+- [ ] Given <context>, when <action>, then <expected outcome>.

@@ -6,35 +6,30 @@ labels: issue
 assignees: iBrotNano
 ---
 
-## :dart: Requirements
+## User Story
 
-### :spiral_notepad: Description
+Only if applicable, describe the user story context or scenario.
 
-A user story for functionality from a user's perspective (user story) or a description of a system requirement in natural language (scenario).
+## :dart: Goal
 
-### :question: Open Questions?
-1. @Who: What must be discussed?
+What the change aims to achieve or the problem it intends to solve.
 
-### :construction: Blockers
+## :mag: Scope
 
-1. Something blocks my work.
+What is included in the change.
 
-### :inbox_tray: Input
+## :construction: Out of Scope
 
-What data goes into the system and what is their source?
+What is explicitly excluded from the change.
 
-### :outbox_tray: Output
+## :white_check_mark: Acceptance Criteria
 
-What data goes out of the system and why?
+- [ ]  Given <context>, when <action>, then <expected outcome>.
 
-### :control_knobs: Conditions
+## :package: Dependencies
 
-What conditions must be met? High pressure? Many users?
+Dependencies on other issues, systems, or components required for this change.
 
-### :warning: Side effects
+## :spiral_notepad: Notes
 
-Are there any?
-
-### Docs
-
-Links to documentation pages related to the bug.
+Additional notes or context relevant to the change.
